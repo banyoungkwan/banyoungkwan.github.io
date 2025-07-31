@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Current Working Projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -397,14 +397,14 @@ ninja.data = [{
           description: "Registration of Jeju 4.3 Archives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-excavation-and-dna-identification",
-          title: 'Excavation and DNA Identification',
-          description: "Identifying Jeju 4.3 Victims",
+            },},{id: "projects-identification-of-victims",
+          title: 'Identification of Victims',
+          description: "Excavation and Identifying Jeju 4.3 Victims",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-archive-research",
-          title: 'Archive Research',
-          description: "Working with the National Archives",
+            },},{id: "projects-archival-research",
+          title: 'Archival Research',
+          description: "Truth Investigation from the Archives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
