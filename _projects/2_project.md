@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Excavation and DNA Identification 
-description: Identifying Jeju 4.3 Victims
+title: Identification of Victims
+description: Excavation and Identifying Jeju 4.3 Victims
 img: assets/img/5.jpg
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archive Research
-description: Working with the National Archives
+title: Archival Research
+description: Truth Investigation from the Archives
 img: assets/img/8.jpg
 importance: 3
 category: work

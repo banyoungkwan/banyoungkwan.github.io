@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-### Presentation
+
+### presentation
+
 
 - "Mediating a Silenced Past: The Case of the Jeju 4·3 Incident Investigation Report," IAMCR Singapre 2025, NTU, Singapore, July 2025.
 
@@ -23,7 +25,9 @@ nav_order: 5
 
 - “Echoing Ghosts,” 11st International Congress of Qualitative Inquiry, Urbana, Il, United States, May 2016.
 
-### Media
+
+### media appearance
+
 
 - KCTV, "KCTV [Issue Talk Pang] The Excavation of 4.3 Remains and the Task of Blood Collection (KCTV [이슈토크 팡] 4.3 유해발굴과 채혈 과제)," <a href="https://www.youtube.com/watch?v=1LnfO77HOK0">Youtube</a> (May 16, 2025)
 
