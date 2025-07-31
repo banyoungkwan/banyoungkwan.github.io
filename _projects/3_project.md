@@ -1,81 +1,22 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Archive Research
+description: Working with the National Archives
+img: assets/img/8.jpg
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Archival Research for the National Follow-up Investigation
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A core component of my role at the Jeju 4.3 Peace Foundation was to conduct extensive archival research for the official national 'follow-up investigation' into the Jeju 4.3 Incident. The primary objective of this project was to build a more comprehensive and multi-faceted historical record by going beyond previously examined domestic sources. To achieve this, my work integrated two crucial methodologies: rigorous investigation in international archives and the deeply personal work of collecting victim testimonies from survivors and their families.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+A major focus of this project was my research at the U.S. National Archives. Because the U.S. Military Government was in power in southern Korea when the uprising began, its records hold a critical perspective on the event. My work there involved meticulously identifying, analyzing, and contextualizing declassified military reports, intelligence documents, and diplomatic cables. This international research was vital for understanding the U.S. role, its awareness of the unfolding atrocities, and its influence on the actions of the South Korean forces.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This multi-sited archival work was targeted at researching and providing evidence on several critical aspects of the incident for the national investigation. The findings were instrumental in shaping the official report and clarifying the complex dynamics of the tragedy. My key areas of research included:
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- State Responsibility: Investigating the chain of command within the military and police to establish official accountability for the violence and human rights violations that occurred.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- Military and Police Brutality: Systematically documenting patterns and specific instances of violence committed by state forces against civilians, moving beyond anecdotal evidence to build a body of verifiable proof.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+- Enforced Migration: Researching the mass displacement of Jeju residents who were forced to flee their homes and communities as a direct result of the violence and suppression campaign.
