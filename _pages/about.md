@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='http://jeju43peace.org'>Jeju 4·3 Peace Foundation</a>. Researcher, Manager.
 
 profile:
   align: right
