@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Presentation
+### Presentation
 
 - "Mediating a Silenced Past: The Case of the Jeju 4·3 Incident Investigation Report," IAMCR Singapre 2025, NTU, Singapore, July 2025.
 
@@ -23,7 +23,7 @@ nav_order: 5
 
 - “Echoing Ghosts,” 11st International Congress of Qualitative Inquiry, Urbana, Il, United States, May 2016.
 
-## Media
+### Media
 
 - KCTV, "KCTV [Issue Talk Pang] The Excavation of 4.3 Remains and the Task of Blood Collection (KCTV [이슈토크 팡] 4.3 유해발굴과 채혈 과제)," <a href="https://www.youtube.com/watch?v=1LnfO77HOK0">Youtube</a> (May 16, 2025)
 
@@ -37,6 +37,6 @@ nav_order: 5
 
 - JIBS, "Jeju 4.3 Special Report] Part ⑤: Amid Ongoing Attempts to Undermine Its History, Experts Urge an Active Response to Distortion ([4·3 기획] ⑤ 계속되는 '흔들기'.. 역사 왜곡 적극 대응해야)," <a href="https://www.youtube.com/watch?v=UDEl5H7y0uU">Youtube</a> (Apr 5, 2024)
 
-- JIBS, "Jeju 4.3 Special Report] Part ⑤: Amid Ongoing Attempts to Undermine Its History, Experts Urge an Active Response to Distortion ([4·3 기획] ⑤ 계속되는 '흔들기'.. 역사 왜곡 적극 대응해야)," <a href="https://www.youtube.com/watch?v=UDEl5H7y0uU">Youtube</a> (Apr 5, 2024)
+- Jejusori, "The Jeju 4.3 Archives represent a memory of reconciliation and mutual prosperity—a rare example for the world (“제주4.3기록은 화해, 상생의 기억...세계적으로 희귀한 사례”)," <a href="https://www.jejusori.net/news/articleView.html?idxno=413465">News Article</a> (Mar 31, 2023)
 
 
