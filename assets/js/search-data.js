@@ -383,16 +383,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-the-221st-unesco-executive-board-meeting-decided-the-inscription-of-revealing-truth-jeju-4-3-archives-as-a-memory-of-the-world-unesco-amp-lt-a-href-https-banyoungkwan-github-io-projects-1-project-more-detail-about-this-project-a-amp-gt",
+          title: 'The 221st UNESCO Executive Board meeting decided the inscription of “Revealing Truth: Jeju...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-appeared-in-local-tv-s-discussion-program-special-report-connecting-the-issues-as-jeju-4-3-goes-global-what-challenges-lie-ahead-aired-april-17-2025-시사기획-이슈잇다-세계화-앞-4-3-앞으로의-과제는-250417-youtube",
+          title: 'Appeared in local TV’s discussion program “Special Report “Connecting the Issues-As Jeju 4.3...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-academic-presentation-mediating-a-silenced-past-the-case-of-the-jeju-4-3-incident-investigation-report-iamcr-singapre-2025-ntu-singapore-july-2025-was-made",
+          title: 'Academic Presentation “Mediating a Silenced Past: The Case of the Jeju 4·3 Incident...',
           description: "",
           section: "News",},{id: "projects-unesco-memory-of-the-world",
           title: 'UNESCO Memory of the World',
