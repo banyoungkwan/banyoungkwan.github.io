@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Curriculum Vitae",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-appearance",
           title: "appearance",
           description: "Presentation and Appearance",
           section: "Navigation",
           handler: () => {
             window.location.href = "/appearance/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Curriculum Vitae",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
