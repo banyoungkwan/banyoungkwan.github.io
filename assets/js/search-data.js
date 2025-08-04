@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-221st-unesco-executive-board-meeting-decided-the-inscription-of-revealing-truth-jeju-4-3-archives-as-a-memory-of-the-world-unesco-more-detail-about-this-project-a-amp-gt",
+            },},{id: "news-the-221st-unesco-executive-board-meeting-decided-the-inscription-of-revealing-truth-jeju-4-3-archives-as-a-memory-of-the-world-unesco-more-detail-about-this-project",
           title: 'The 221st UNESCO Executive Board meeting decided the inscription of “Revealing Truth: Jeju...',
           description: "",
           section: "News",},{id: "news-appeared-in-local-tv-s-discussion-program-special-report-connecting-the-issues-as-jeju-4-3-goes-global-what-challenges-lie-ahead-aired-april-17-2025-시사기획-이슈잇다-세계화-앞-4-3-앞으로의-과제는-250417-youtube",
