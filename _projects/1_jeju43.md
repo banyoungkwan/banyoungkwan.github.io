@@ -13,7 +13,7 @@ category: work
     </div>
 </div>
 
-### The Jeju 4.3 Incident: A Foundation of Truth and Memory
+## The Jeju 4.3 Incident: A Foundation of Truth and Memory
 
 The Jeju 4.3 Incident refers to one of the most tragic and defining events in modern Korean history. Beginning on April 3, 1948, and continuing well into the mid-1950s, it was a period of intense state-sponsored violence against the people of Jeju Island. In response to an uprising against the division of Korea and for local autonomy, the South Korean government, with the oversight of the U.S. Military Government, launched a brutal suppression campaign. This resulted in the massacre of tens of thousands of civilians, the destruction of the majority of the island's villages, and the creation of a deep, collective trauma.
 
