@@ -29,12 +29,8 @@ After decades of fighting for national recognition, the next crucial step was to
 
 This project was essential because it transforms the Jeju 4.3 Archives from a record of a local tragedy into a universal lesson on human rights, state violence, and the power of reconciliation. UNESCO inscription serves as an international safeguard against historical denial and honors the victims' long struggle on a global stage. As the project manager for this initiative, I led the comprehensive effort to organize the records, host academic forums, and manage the formal application process, ensuring that the story of Jeju's pain and resilience became a permanent part of the world's shared heritage.
 
-For more detail, check <a herf="https://banyoungkwan.github.io/projects/unesco_memory_jeju43/">here</a>.
-
 ### Victim Exhumation: Restoring Dignity and Identity
 
 The most immediate and painful legacy of the massacre was the loss of tens of thousands of individuals who were killed and buried in unmarked, clandestine graves, disappearing without a trace. The victim excavation and identification project was pursued to address this fundamental injustice.
 
 This work is vital because it is a direct act of restoring human dignity. The meticulous process of locating gravesites, respectfully recovering the remains, and using DNA analysis to restore a name to the nameless provides profound closure to families who have lived in uncertainty for over 70 years. As the manager of these excavation and identification projects, my role was to oversee this sensitive work, bridging historical research with forensic science. More than a technical procedure, I view this work as a "memorial practice" —a final, solemn act of remembrance that honors the dead and helps heal the living.
-
-For more detail, check <a herf="https://banyoungkwan.github.io/projects/excavation/">here</a>.
