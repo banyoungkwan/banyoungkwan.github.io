@@ -5,7 +5,6 @@ description: Excavation and Identifying Jeju 4.3 Victims
 img: assets/img/5.jpg
 importance: 3
 category: work
-related_publications: true
 ---
 
 ## The Process: Restoring Identity to the Lost
@@ -34,16 +33,20 @@ The process unfolds in several critical stages:
     </div>
 </div>
 
-My Role as Project Manager
+### My Role as Project Manager
 
 As the project manager for the human remains excavation and identification projects at the Jeju 4.3 Peace Foundation, my role was to oversee this entire complex and sensitive operation from start to finish. This involved more than just logistics; it required a deep integration of historical research, forensic science, and compassionate engagement with the bereaved community.
 
 My key responsibilities included:
 
-Strategic Coordination: I served as the central point of contact between multiple teams, including historical researchers, on-site excavation crews, forensic anthropologists, DNA analysis labs, and government officials.
+- Strategic Coordination: I served as the central point of contact between multiple teams, including historical researchers, on-site excavation crews, forensic anthropologists, DNA analysis labs, and government officials.
 
-Oversight of Field and Lab Work: I actively managed the on-site excavation projects and the subsequent DNA identification process, ensuring that every stage was conducted ethically, scientifically, and with the profound respect the victims deserved.
+- Oversight of Field and Lab Work: I actively managed the on-site excavation projects and the subsequent DNA identification process, ensuring that every stage was conducted ethically, scientifically, and with the profound respect the victims deserved.
 
-Sensitive Data Management: The project involved handling highly sensitive data, from the location of remains to the genetic information of victims and their families. I was responsible for ensuring this information was managed securely and confidentially.
+- Sensitive Data Management: The project involved handling highly sensitive data, from the location of remains to the genetic information of victims and their families. I was responsible for ensuring this information was managed securely and confidentially.
 
-Community and Family Liaison: A crucial part of my role was communicating with the elderly survivors and bereaved families. This involved explaining the process, managing expectations, and providing support during the emotionally charged identification and return of remains.
+- Community and Family Liaison: A crucial part of my role was communicating with the elderly survivors and bereaved families. This involved explaining the process, managing expectations, and providing support during the emotionally charged identification and return of remains.
+
+### Related Publication:
+
+- Youngkwan Ban, <a herf="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002992858">"Silencing the sound of cracking bones: Victim identification as memorial practice in Jeju 4.3"</a>, The Korean Journal of History of Science, 2023. [Eng]
