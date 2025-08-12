@@ -51,21 +51,26 @@ ninja.data = [{
           section: "News",},{id: "news-academic-presentation-mediating-a-silenced-past-the-case-of-the-jeju-4-3-incident-investigation-report-iamcr-singapre-2025-ntu-singapore-july-2025-was-made",
           title: 'Academic Presentation “Mediating a Silenced Past: The Case of the Jeju 4·3 Incident...',
           description: "",
-          section: "News",},{id: "projects-unesco-memory-of-the-world",
-          title: 'UNESCO Memory of the World',
-          description: "Registration of Jeju 4.3 Archives",
+          section: "News",},{id: "projects-jeju-4-3",
+          title: 'Jeju 4.3',
+          description: "A Foundation of Truth and Memory",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-identification-of-victims",
-          title: 'Identification of Victims',
-          description: "Excavation and Identifying Jeju 4.3 Victims",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/1_jeju43/";
             },},{id: "projects-archival-research",
           title: 'Archival Research',
           description: "Truth Investigation from the Archives",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/archival_research/";
+            },},{id: "projects-identification-of-victims",
+          title: 'Identification of Victims',
+          description: "Excavation and Identifying Jeju 4.3 Victims",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/excavation/";
+            },},{id: "projects-unesco-memory-of-the-world",
+          title: 'UNESCO Memory of the World',
+          description: "Registration of Jeju 4.3 Archives",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/unesco_memory_jeju43/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
