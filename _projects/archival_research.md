@@ -3,7 +3,7 @@ layout: page
 title: Archival Research
 description: Truth Investigation from the Archives
 img: assets/img/8.jpg
-importance: 3
+importance: 4
 category: work
 ---
 

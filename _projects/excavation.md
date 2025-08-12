@@ -3,7 +3,7 @@ layout: page
 title: Identification of Victims
 description: Excavation and Identifying Jeju 4.3 Victims
 img: assets/img/5.jpg
-importance: 2
+importance: 3
 category: work
 related_publications: true
 ---

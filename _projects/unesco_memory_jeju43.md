@@ -3,13 +3,13 @@ layout: page
 title: UNESCO Memory of the World
 description: Registration of Jeju 4.3 Archives
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
 ## From Silenced History to a Global Memory: The Jeju 4.3 Archives and UNESCO Recognition
 
-The archives of the Jeju 4.3 Incident, a comprehensive collection of records documenting one of modern Korean history's most profound tragedies, now hold a place on the UNESCO Memory of the World Register. This inscription marks a pivotal moment, transforming a once-suppressed local history into a recognized part of our shared global heritage. The archives—comprising survivor testimonies, official documents, victim lists, and records of the truth-seeking movement—tell the story of immense suffering and an arduous, decades-long path toward justice.
+The archives of the Jeju 4.3, a comprehensive collection of records documenting one of modern Korean history's most profound tragedies, now hold a place on the UNESCO Memory of the World Register. This inscription marks a pivotal moment, transforming a once-suppressed local history into a recognized part of our shared global heritage. The archives—comprising survivor testimonies, official documents, victim lists, and records of the truth-seeking movement—tell the story of immense suffering and an arduous, decades-long path toward justice.
 
 The purpose of seeking UNESCO recognition extended far beyond mere preservation. For decades, the history of Jeju 4.3 was officially silenced. Therefore, the primary goal was to secure irreversible, global acknowledgment of the victims' suffering and the legitimacy of their long struggle for the truth. Inscription by UNESCO serves as a powerful bulwark against denial and historical revisionism, ensuring the tragedy can never again be erased or ignored. It affirms that the lessons learned from Jeju 4.3—about the dangers of state violence, the abuse of ideology, and the profound human need for truth and reconciliation—are of universal value to all of humanity.
 
@@ -31,11 +31,11 @@ As the project manager for the UNESCO inscription initiative, I began working in
 
 Under my management, the project progressed through several key phases to build momentum and solidify the application.
 
-- We began by hosting an International Symposium on the Memory of the World in December 2019.
+- Our team began by hosting an International Symposium on the Memory of the World in December 2019.
 
 - A significant effort was dedicated to expanding the archive; our public campaign from August to October 2020 successfully collected approximately 400 new private records.
 
-- From December 2020 to August 2021, I oversaw the special exhibition, "Traces Becoming Records," to share our findings with the public.
+- From December 2020 to August 2021, we oversaw the special exhibition, "Traces Becoming Records," to share our findings with the public.
 
 - Throughout 2021 and 2022, we recorded crucial video testimonies from key figures involved in the truth-finding movement.
 
@@ -48,6 +48,7 @@ Under my management, the project progressed through several key phases to build 
 The announcement of the successful registration was made at April 11, 2025, decided by the UNESCO Board Meeting. 
 
 Here's how the UNESCO describes:
+
 > The archives consist of 14,673 documents related to Jeju 4·3, an armed uprising led by the Jeju branch of South Korean Labor Party on 3 April, 1948. This event escalated into guerrilla warfare, resulting in massive atrocities inflicted upon innocent inhabitants. These archives preserve suppressed memories of Korea’s post-colonial transition, highlighting endeavours to rehabilitate the honour of victims who had long suffered the stigma associated with communism. The archives also focus on collective efforts to embrace those who had once been perpetrators, fostering a vision of Jeju as a community of coexistence. The archives portray the achievements of the local community’s grassroots democratic efforts in advancing reconciliation and restoration.
 (read more about <a href="https://www.unesco.org/en/memory-world/register2025">2025's inscription</a>).
 
