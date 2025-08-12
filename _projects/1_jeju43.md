@@ -17,14 +17,18 @@ For decades, the truth of Jeju 4.3 was officially silenced by successive authori
 
 My work has been dedicated to addressing the profound legacy of this history through two key projects: securing UNESCO recognition for the 4.3 Archives and managing the excavation and identification of victims' remains.
 
-#### [The UNESCO Inscription: Securing a Permanent Global Memory] (/unesco_memory_jeju43)
+#### [The UNESCO Inscription: Securing a Permanent Global Memory]
 
 After decades of fighting for national recognition, the next crucial step was to ensure the memory of Jeju 4.3 could never again be silenced or distorted. The purpose of seeking inscription on the UNESCO Memory of the World Register was to achieve this permanent, global acknowledgment.
 
 This project was essential because it transforms the Jeju 4.3 Archives from a record of a local tragedy into a universal lesson on human rights, state violence, and the power of reconciliation. UNESCO inscription serves as an international safeguard against historical denial and honors the victims' long struggle on a global stage. As the project manager for this initiative, I led the comprehensive effort to organize the records, host academic forums, and manage the formal application process, ensuring that the story of Jeju's pain and resilience became a permanent part of the world's shared heritage.
 
-##### [Victim Exhumation: Restoring Dignity and Identity] (/exhumation)
+For more detail, check [here] (https://banyoungkwan.github.io/projects/unesco_memory_jeju43/).
+
+##### [Victim Exhumation: Restoring Dignity and Identity]
 
 The most immediate and painful legacy of the massacre was the loss of tens of thousands of individuals who were killed and buried in unmarked, clandestine graves, disappearing without a trace. The victim excavation and identification project was pursued to address this fundamental injustice.
 
 This work is vital because it is a direct act of restoring human dignity. The meticulous process of locating gravesites, respectfully recovering the remains, and using DNA analysis to restore a name to the nameless provides profound closure to families who have lived in uncertainty for over 70 years. As the manager of these excavation and identification projects, my role was to oversee this sensitive work, bridging historical research with forensic science. More than a technical procedure, I view this work as a "memorial practice" —a final, solemn act of remembrance that honors the dead and helps heal the living.
+
+For more detail, check [here] (https://banyoungkwan.github.io/projects/excavation/).
