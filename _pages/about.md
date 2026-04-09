@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='http://jeju43peace.org'>Jeju 4·3 Peace Foundation</a>. Researcher, Manager.
+description: Youngkwan Ban — memory studies scholar and human rights researcher at the Jeju 4·3 Peace Foundation, specializing in historical truth-seeking, victim identification, and UNESCO heritage documentation.
+keywords: Youngkwan Ban, memory studies, human rights researcher, Jeju 4.3, media studies, PhD
 
 profile:
   align: right

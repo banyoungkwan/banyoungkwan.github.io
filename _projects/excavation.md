@@ -1,52 +1,47 @@
 ---
 layout: page
 title: Identification of Victims
-description: Excavation and Identifying Jeju 4.3 Victims
+description: Managing the excavation of clandestine graves and DNA-based identification of Jeju 4.3 massacre victims — a memorial practice restoring dignity and identity.
+keywords: victim identification, exhumation, DNA identification, forensic anthropology, Jeju 4.3 victims, human remains, memorial practice, transitional justice
 img: assets/img/5.jpg
 importance: 3
 category: work
 ---
 
-## The Process: Restoring Identity to the Lost
+## Restoring Identity to the Lost
 
-The excavation and identification of victims from the Jeju 4.3 Incident is a profound and meticulous process aimed at restoring the names and dignity of those killed and buried without recognition decades ago. It is not merely a scientific procedure but, as my own research frames it, a "memorial practice". The work is a state-led project to heal the wounds of the past and provide closure to families who have waited over 70 years.
+The Jeju 4.3 massacre left tens of thousands of victims buried in unmarked, clandestine graves — erased not only from life but from record. The excavation and identification project is the effort to reverse that erasure: to locate the remains, restore the names, and return the dead to their families. As my own research argues, this work constitutes a "memorial practice" — not merely a forensic procedure, but a final act of recognition that the state once denied.
 
-The process unfolds in several critical stages:
+I managed these excavation and identification projects at the Jeju 4.3 Peace Foundation.
 
-- Historical Research and Testimony: Before any digging begins, extensive research is conducted using historical records and, most importantly, the testimonies of survivors and local residents. This helps pinpoint the locations of clandestine mass graves or single unmarked burials.
+### What I Managed
 
-- Meticulous Excavation (Exhumation): Once a site is identified, a team of archaeologists and forensic experts carefully excavates the area. This is a delicate, respectful process to recover the human remains with the utmost care, ensuring no evidence is lost.
+My role required integrating historical research, forensic science, and direct engagement with the bereaved community — work that was as emotionally demanding as it was logistically complex.
 
-- Forensic and DNA Analysis: The recovered remains are transferred to a laboratory. Forensic anthropologists analyze the bones to determine basic information like age, sex, and evidence of trauma. Crucially, samples are taken from teeth or dense bone for DNA extraction.
+**Cross-disciplinary coordination.** I operated as the central coordinator across historical researchers, on-site excavation crews, forensic anthropologists, DNA analysis laboratories, and government officials. The challenge was not simply logistics — it was ensuring that each team's work fed coherently into the next stage while maintaining ethical standards throughout.
 
-- Identification and Return: The extracted DNA profile is compared against a database of DNA provided by the bereaved families. A successful match officially restores a victim's identity. The final, most important step is the solemn return of the remains to the family, allowing them to finally hold a proper funeral and lay their loved one to rest in peace.
+**Field and laboratory oversight.** I actively managed the on-site excavation projects and the subsequent DNA identification process. Every stage — from the initial dig to the final match — had to be conducted with scientific rigor and the profound respect that the victims and their families deserved.
+
+**Sensitive data governance.** The project involved handling deeply sensitive information: the locations of remains, genetic profiles of victims, and DNA reference data from living family members. I was responsible for ensuring this data was managed securely and treated with the confidentiality it demanded.
+
+**Community and family liaison.** Many of the bereaved family members are elderly — they have waited over seventy years. A crucial part of my role was communicating with these families: explaining the process, managing expectations, and providing support during the emotionally charged moments of identification and the return of remains.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="Excavation in Gashi-ri" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="Excavation in Gasi-ri" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/6.jpg" title="Blood Sampling of the bereaved families" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/6.jpg" title="DNA reference sampling from bereaved families" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7.jpg" title="Returnning of Victim's remains" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/7.jpg" title="Returning the victim's remains to the family" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-### My Role as Project Manager
+### The Process
 
-As the project manager for the human remains excavation and identification projects at the Jeju 4.3 Peace Foundation, my role was to oversee this entire complex and sensitive operation from start to finish. This involved more than just logistics; it required a deep integration of historical research, forensic science, and compassionate engagement with the bereaved community.
+The identification unfolds in four stages. Historical research and survivor testimonies first pinpoint the locations of clandestine graves. Archaeologists and forensic experts then carefully excavate the site. The recovered remains undergo forensic and DNA analysis in the laboratory. Finally, DNA profiles are matched against a database provided by the bereaved families — and when a match is confirmed, the remains are returned in a solemn ceremony, allowing the family to hold a proper funeral for the first time in over seven decades.
 
-My key responsibilities included:
+### Related Publication
 
-- Strategic Coordination: I served as the central point of contact between multiple teams, including historical researchers, on-site excavation crews, forensic anthropologists, DNA analysis labs, and government officials.
-
-- Oversight of Field and Lab Work: I actively managed the on-site excavation projects and the subsequent DNA identification process, ensuring that every stage was conducted ethically, scientifically, and with the profound respect the victims deserved.
-
-- Sensitive Data Management: The project involved handling highly sensitive data, from the location of remains to the genetic information of victims and their families. I was responsible for ensuring this information was managed securely and confidentially.
-
-- Community and Family Liaison: A crucial part of my role was communicating with the elderly survivors and bereaved families. This involved explaining the process, managing expectations, and providing support during the emotionally charged identification and return of remains.
-
-### Related Publication:
-
-- Youngkwan Ban, <a herf="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002992858">"Silencing the sound of cracking bones: Victim identification as memorial practice in Jeju 4.3"</a>, The Korean Journal of History of Science, 2023. [Eng]
+Youngkwan Ban, ["Silencing the sound of cracking bones: Victim identification as memorial practice in Jeju 4.3"](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002992858), *The Korean Journal of History of Science*, 2023.

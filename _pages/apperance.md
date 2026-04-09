@@ -2,7 +2,8 @@
 layout: page
 permalink: /appearance/
 title: appearance
-description: Presentation and Appearance
+description: Academic presentations and media appearances by Youngkwan Ban on Jeju 4.3, memory studies, and human rights research.
+keywords: Youngkwan Ban presentation, IAMCR, academic conference, media appearance, Jeju 4.3, memory studies
 nav: true
 nav_order: 5
 ---

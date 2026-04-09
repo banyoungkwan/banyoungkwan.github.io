@@ -2,7 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Current Working Projects
+description: Projects by Youngkwan Ban — UNESCO Memory of the World inscription, victim identification, U.S. archival research, and the jeju43.info digital ecosystem.
+keywords: Jeju 4.3 projects, UNESCO inscription, victim identification, NARA archives, digital humanities, jeju43.info
 nav: true
 nav_order: 2
 display_categories: [work]
