@@ -1,35 +1,34 @@
 ---
 layout: page
-permalink: /appearance/
-title: 발표 및 출연
-description: 반영관의 학술 발표 및 미디어 출연 — 제주 4.3, 기억 연구, 인권 연구.
-keywords: 반영관 발표, IAMCR, 학술 회의, 미디어 출연, 제주 4.3, 기억 연구
-lang: ko
-alternate_url: /en/appearance/
-nav: true
-nav_order: 5
+lang: en
+permalink: /en/appearance/
+alternate_url: /appearance/
+title: appearance
+description: Academic presentations and media appearances by Youngkwan Ban on Jeju 4.3, memory studies, and human rights research.
+keywords: Youngkwan Ban presentation, IAMCR, academic conference, media appearance, Jeju 4.3, memory studies
+nav: false
 ---
 
 
-### 학술 발표
+### presentation
 
 
 - "Mediating a Silenced Past: The Case of the Jeju 4·3 Incident Investigation Report," IAMCR Singapre 2025, NTU, Singapore, July 2025.
 
-- “Empowering the Precarious Memory- The Jeju 4·3 Archives and Grassroots Truth,” International Meeting on Archives and Memory for Conflict Reconciliation and Peacebuilding in Southeast Asia, UNESCO Jakarta Office with International Centre for Documentary Heritage, May 2025.
+- "Empowering the Precarious Memory- The Jeju 4·3 Archives and Grassroots Truth," International Meeting on Archives and Memory for Conflict Reconciliation and Peacebuilding in Southeast Asia, UNESCO Jakarta Office with International Centre for Documentary Heritage, May 2025.
 
-- “Silencing the Sound of Cracking Bones: Victim Identification as Memorial Practice in Jeju 4.3,” The Seventh Biennial Conference of East Asian Environmental History, Daejeon, South Korea, June 2023.
+- "Silencing the Sound of Cracking Bones: Victim Identification as Memorial Practice in Jeju 4.3," The Seventh Biennial Conference of East Asian Environmental History, Daejeon, South Korea, June 2023.
 
-- “Remembering People’s Sovereignty Through Active Forgetting,” the Fourth International Conference on Communication & Media Studies, University of Bonn, Bonn, Germany, Sep 2019. 
+- "Remembering People's Sovereignty Through Active Forgetting," the Fourth International Conference on Communication & Media Studies, University of Bonn, Bonn, Germany, Sep 2019. 
 
-- “Talking to the Small Tableau - Muted commemoration of Indebtedness in Bongha,” The Third Annual Memory Studies Association Conference, Madrid, Spain, Jun 2019.
+- "Talking to the Small Tableau - Muted commemoration of Indebtedness in Bongha," The Third Annual Memory Studies Association Conference, Madrid, Spain, Jun 2019.
 
-- “We will not forget you, forever” Protest and Dissent in Translation and Culture, Warsaw, Poland, May 2017.  
+- "We will not forget you, forever" Protest and Dissent in Translation and Culture, Warsaw, Poland, May 2017.  
 
-- “Echoing Ghosts,” 11st International Congress of Qualitative Inquiry, Urbana, Il, United States, May 2016.
+- "Echoing Ghosts," 11st International Congress of Qualitative Inquiry, Urbana, Il, United States, May 2016.
 
 
-### 미디어 출연
+### media appearance
 
 
 - KCTV, "KCTV [Issue Talk Pang] The Excavation of 4.3 Remains and the Task of Blood Collection (KCTV [이슈토크 팡] 4.3 유해발굴과 채혈 과제)," <a href="https://www.youtube.com/watch?v=1LnfO77HOK0">Youtube</a> (May 16, 2025)
@@ -44,6 +43,5 @@ nav_order: 5
 
 - JIBS, "Jeju 4.3 Special Report] Part ⑤: Amid Ongoing Attempts to Undermine Its History, Experts Urge an Active Response to Distortion ([4·3 기획] ⑤ 계속되는 '흔들기'.. 역사 왜곡 적극 대응해야)," <a href="https://www.youtube.com/watch?v=UDEl5H7y0uU">Youtube</a> (Apr 5, 2024)
 
-- Jejusori, "The Jeju 4.3 Archives represent a memory of reconciliation and mutual prosperity—a rare example for the world (“제주4.3기록은 화해, 상생의 기억...세계적으로 희귀한 사례”)," <a href="https://www.jejusori.net/news/articleView.html?idxno=413465">News Article</a> (Mar 31, 2023)
-
+- Jejusori, "The Jeju 4.3 Archives represent a memory of reconciliation and mutual prosperity—a rare example for the world ("제주4.3기록은 화해, 상생의 기억...세계적으로 희귀한 사례")," <a href="https://www.jejusori.net/news/articleView.html?idxno=413465">News Article</a> (Mar 31, 2023)
 

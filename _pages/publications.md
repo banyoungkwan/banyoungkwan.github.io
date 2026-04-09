@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Academic publications by Youngkwan Ban on memory studies, Jeju 4.3 victim identification, collective memory, and human rights documentation.
-keywords: Youngkwan Ban publications, memory studies, Jeju 4.3, qualitative inquiry, memorial practice, academic papers
+title: 논문
+description: 반영관의 학술 논문 — 기억 연구, 제주 4.3 희생자 신원 파악, 집단 기억, 인권 기록.
+keywords: 반영관 논문, 기억 연구, 제주 4.3, 질적 연구, 추모 실천, 학술지
+lang: ko
+alternate_url: /en/publications/
 nav: true
 nav_order: 3
 ---

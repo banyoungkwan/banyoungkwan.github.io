@@ -1,37 +1,37 @@
 ---
 layout: page
 title: jeju43.info
-description: An open digital ecosystem for Jeju 4·3 memory — news, archive, wiki, and gateway site connecting the history to a global audience.
+description: 제주 4·3 기억을 위한 개방형 디지털 생태계 — 뉴스, 아카이브, 위키, 그리고 역사를 지구적 청중과 연결하는 게이트웨이 사이트.
 keywords: jeju43.info, digital archive, Jeju 4.3, digital humanities, memory infrastructure, open access, historical records
 img: assets/img/jeju43info_cover.jpg
 importance: 5
 category: work
 ---
 
-## jeju43.info: A Digital Ecosystem for Jeju 4·3 Memory
+## jeju43.info: 제주 4·3 기억을 위한 디지털 생태계
 
-The history of Jeju 4·3 has come a long way — from decades of enforced silence to UNESCO inscription. Yet a critical challenge remains: how do we make this history genuinely accessible to a global audience in the digital age? Institutional channels serve important purposes, but they are not designed for open exploration or community participation. The jeju43.info project is my effort to build the missing infrastructure — a coherent, open digital ecosystem where the memory of Jeju 4·3 can be encountered, explored, and carried forward by anyone, anywhere.
+제주 4·3의 역사는 먼 길을 왔다. 수십 년의 강제된 침묵에서 유네스코 등재까지 말이다. 그러나 중요한 과제가 남아 있다. 어떻게 이 역사를 디지털 시대에 지구적 청중에게 진정으로 접근 가능하게 만들 것인가? 제도적 채널은 중요한 목적을 수행하지만, 개방적 탐색이나 공동체 참여를 위해 설계되지 않았다. jeju43.info 프로젝트는 누락된 기반시설을 구축하려는 나의 노력이다. 제주 4·3의 기억이 누구든지, 어디서든지 마주치고, 탐색하고, 전승될 수 있는 일관되고 개방적인 디지털 생태계 말이다.
 
-### The Platform
+### 플랫폼
 
-The ecosystem currently consists of four interconnected sites, each addressing a different dimension of the same problem: keeping a history alive and accessible.
+이 생태계는 현재 네 개의 상호 연결된 사이트로 구성되어 있으며, 각각 동일한 문제의 다른 차원을 다룬다. 역사를 생생하게 유지하고 접근 가능하게 하는 것이다.
 
-### [jeju43.info](https://jeju43.info) — Gateway
+### [jeju43.info](https://jeju43.info) — 게이트웨이
 
-The entry point to the ecosystem. A concise, accessible introduction to Jeju 4·3 for those encountering the history for the first time, and a hub connecting visitors to the platforms below. The goal is to lower the barrier to entry — offering orientation before depth.
+생태계로의 진입점. 처음으로 이 역사를 만나는 사람들을 위한 간결하고 접근 가능한 제주 4·3 소개이며, 아래의 플랫폼들로 방문자를 연결하는 허브이다. 목표는 진입 장벽을 낮추는 것이다. 깊이 전에 방향성을 제공한다.
 
-### [news.jeju43.info](https://news.jeju43.info) — News
+### [news.jeju43.info](https://news.jeju43.info) — 뉴스
 
-Memory is not static. The struggle over how Jeju 4·3 is remembered, taught, and acknowledged continues to unfold — through legislative battles, new excavations, international recognition, and persistent attempts at historical distortion. This platform tracks those developments, creating a running record of the present as it becomes history.
+기억은 정적이지 않다. 제주 4·3이 어떻게 기억되고, 가르쳐지고, 인정받는지를 둘러싼 투쟁은 입법 투쟁, 새로운 발굴, 국제적 인정, 그리고 지속적인 역사 왜곡 시도를 통해 계속 전개된다. 이 플랫폼은 그러한 발전을 추적하여 현재가 역사가 되어가는 상황의 기록을 만든다.
 
-### [archive.jeju43.info](https://archive.jeju43.info) — Archive
+### [archive.jeju43.info](https://archive.jeju43.info) — 아카이브
 
-Primary sources are the foundation of memory work. This platform provides open access to historical documents, survivor testimonies, official records, and related materials — including the approximately 38,000 U.S.-held documents I collected during my archival research at NARA. Accessibility and transparency are its core principles.
+일차 자료는 기억 작업의 기초이다. 이 플랫폼은 역사 문서, 생존자 증언, 공식 기록, 그리고 관련 자료에 대한 개방적 접근을 제공한다. NARA에서의 아카이브 연구 중 수집한 약 38,000건의 미국 보유 문서를 포함한다. 접근성과 투명성이 핵심 원칙이다.
 
-### [Jeju 4·3 Wiki](https://banyoungkwan.github.io/jeju43-wiki/) — Knowledge Base
+### [Jeju 4·3 Wiki](https://banyoungkwan.github.io/jeju43-wiki/) — 지식 기반
 
-An ongoing project to construct a structured, encyclopedic knowledge base about Jeju 4·3 — its events, figures, places, and legacy. Built as an open wiki, it reflects the belief that memory is most durable when it is collectively maintained. Currently in active development.
+제주 4·3에 대한 체계적이고 백과사전적인 지식 기반을 구축하는 지속적 프로젝트. 사건, 인물, 장소, 유산을 포함한다. 개방형 위키로 구축되었으며, 기억이 집단적으로 유지될 때 가장 지속 가능하다는 믿음을 반영한다. 현재 적극적으로 개발 중이다.
 
-### Why This Matters
+### 이것이 중요한 이유
 
-Each of these platforms addresses a different need — from breaking news to deep archival research, from structured knowledge to open exploration. The underlying conviction is that digital infrastructure is now inseparable from memory infrastructure. To protect a history in the twenty-first century, you must also build the platforms through which it travels.
+이러한 각 플랫폼은 속보에서 심층 아카이브 연구까지, 체계적 지식에서 개방적 탐색까지 다양한 필요를 다룬다. 기저에 있는 신념은 디지털 기반시설이 이제 기억 기반시설과 분리될 수 없다는 것이다. 21세기에 역사를 보호하려면 그것이 이동하는 플랫폼들도 함께 구축해야 한다.
