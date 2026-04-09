@@ -11,28 +11,28 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Current Working Projects",
+          description: "Projects by Youngkwan Ban — UNESCO Memory of the World inscription, victim identification, U.S. archival research, and the jeju43.info digital ecosystem.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "my publications",
+          description: "Academic publications by Youngkwan Ban on memory studies, Jeju 4.3 victim identification, collective memory, and human rights documentation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-appearance",
           title: "appearance",
-          description: "Presentation and Appearance",
+          description: "Academic presentations and media appearances by Youngkwan Ban on Jeju 4.3, memory studies, and human rights research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/appearance/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum Vitae",
+          description: "CV of Youngkwan Ban (PhD, University of Illinois) — memory studies scholar and human rights researcher at the Jeju 4.3 Peace Foundation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -62,27 +62,27 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-jeju-4-3",
           title: 'Jeju 4.3',
-          description: "A Foundation of Truth and Memory",
+          description: "A Foundation of Truth and Memory — overview of Youngkwan Ban&#39;s work on the Jeju 4.3 Incident, including UNESCO inscription, victim identification, and archival research.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_jeju43/";
             },},{id: "projects-archival-research",
           title: 'Archival Research',
-          description: "Truth Investigation from the Archives",
+          description: "Collecting and analyzing 38,000 declassified U.S. documents at NARA to establish evidence of American involvement in the Jeju 4.3 Incident.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/archival_research/";
             },},{id: "projects-identification-of-victims",
           title: 'Identification of Victims',
-          description: "Excavation and Identifying Jeju 4.3 Victims",
+          description: "Managing the excavation of clandestine graves and DNA-based identification of Jeju 4.3 massacre victims — a memorial practice restoring dignity and identity.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/excavation/";
             },},{id: "projects-jeju43-info",
           title: 'jeju43.info',
-          description: "A Digital Ecosystem for Jeju 4·3 Memory",
+          description: "An open digital ecosystem for Jeju 4·3 memory — news, archive, wiki, and gateway site connecting the history to a global audience.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jeju43info/";
             },},{id: "projects-unesco-memory-of-the-world",
           title: 'UNESCO Memory of the World',
-          description: "Registration of Jeju 4.3 Archives",
+          description: "How Youngkwan Ban led the inscription of the Jeju 4.3 Archives on the UNESCO Memory of the World Register (2019–2025).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/unesco_memory_jeju43/";
             },},{
