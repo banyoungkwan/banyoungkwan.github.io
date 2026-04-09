@@ -3,7 +3,7 @@ layout: page
 title: jeju43.info
 description: An open digital ecosystem for Jeju 4·3 memory — news, archive, wiki, and gateway site connecting the history to a global audience.
 keywords: jeju43.info, digital archive, Jeju 4.3, digital humanities, memory infrastructure, open access, historical records
-img: assets/img/11.jpg
+img: assets/img/jeju43info_cover.jpg
 importance: 5
 category: work
 ---
