@@ -1,30 +1,30 @@
 ---
 layout: page
-title: 유해 발굴과 신원 확인
-description: 제주 4·3 학살 피해자의 비밀 매장지 발굴 및 DNA 기반 신원 확인 관리 — 존엄성과 신원을 복원하는 추도 실천.
+title: Identification of Victims
+description: Managing the excavation of clandestine graves and DNA-based identification of Jeju 4.3 massacre victims — a memorial practice restoring dignity and identity.
 keywords: victim identification, exhumation, DNA identification, forensic anthropology, Jeju 4.3 victims, human remains, memorial practice, transitional justice
 img: assets/img/5.jpg
 importance: 3
 category: work
 ---
 
-## 사라진 자들의 신원 복원하기
+## Restoring Identity to the Lost
 
-제주 4·3 학살은 수만의 피해자들을 표시되지 않은 비밀 매장지에 묻혀 있도록 남겨두었다. 그들은 생명에서뿐 아니라 기록에서도 지워졌다. 발굴과 신원 확인 프로젝트는 이 지워짐을 역전시키기 위한 노력이다. 유해를 위치시키고, 이름을 복원하고, 죽은 자들을 그 가족에게 돌려보내는 것이다. 나의 연구가 주장하는 바와 같이, 이 작업은 "추도 실천"을 구성한다. 단순한 법의학 절차가 아니라, 국가가 한때 거부한 인정의 최종 행위이다.
+The Jeju 4.3 massacre left tens of thousands of victims buried in unmarked, clandestine graves — erased not only from life but from record. The excavation and identification project is the effort to reverse that erasure: to locate the remains, restore the names, and return the dead to their families. As my own research argues, this work constitutes a "memorial practice" — not merely a forensic procedure, but a final act of recognition that the state once denied.
 
-나는 제주 4·3 평화재단에서 이 발굴과 신원 확인 프로젝트를 관리했다.
+I managed these excavation and identification projects at the Jeju 4.3 Peace Foundation.
 
-### 내가 관리한 사항
+### What I Managed
 
-내 역할은 역사 연구, 법의학, 그리고 피해 유족 공동체와의 직접적인 참여를 통합하는 것을 요구했다. 이 작업은 감정적으로 요구하는 바가 크면서 동시에 후생학적으로 복잡했다.
+My role required integrating historical research, forensic science, and direct engagement with the bereaved community — work that was as emotionally demanding as it was logistically complex.
 
-**학제 간 조율.** 나는 역사 연구자, 현장 발굴팀, 법의학 인류학자, DNA 분석 실험실, 그리고 정부 관계자들 사이의 중앙 조율자로 기능했다. 과제는 단순한 후생학적 문제가 아니었다. 각 팀의 작업이 윤리적 기준을 유지하면서 다음 단계로 일관되게 이어지도록 보장하는 것이었다.
+**Cross-disciplinary coordination.** I operated as the central coordinator across historical researchers, on-site excavation crews, forensic anthropologists, DNA analysis laboratories, and government officials. The challenge was not simply logistics — it was ensuring that each team's work fed coherently into the next stage while maintaining ethical standards throughout.
 
-**현장 및 실험실 감시.** 나는 현장 발굴 프로젝트와 그 이후의 DNA 신원 확인 절차를 적극적으로 관리했다. 초기 발굴에서 최종 매칭까지 모든 단계는 과학적 엄밀성과 피해자와 그 가족이 받아야 할 깊은 존경심으로 수행되어야 했다.
+**Field and laboratory oversight.** I actively managed the on-site excavation projects and the subsequent DNA identification process. Every stage — from the initial dig to the final match — had to be conducted with scientific rigor and the profound respect that the victims and their families deserved.
 
-**민감한 데이터 관리.** 프로젝트는 깊이 민감한 정보를 다루는 것을 포함했다. 유해의 위치, 피해자의 유전 프로필, 살아있는 가족 구성원들의 DNA 참조 데이터 말이다. 나는 이 데이터가 안전하게 관리되고 요구하는 기밀성으로 취급되도록 책임을 졌다.
+**Sensitive data governance.** The project involved handling deeply sensitive information: the locations of remains, genetic profiles of victims, and DNA reference data from living family members. I was responsible for ensuring this data was managed securely and treated with the confidentiality it demanded.
 
-**공동체 및 가족 연락.** 많은 피해 유족들은 노인이었다. 그들은 70년 이상 기다려왔다. 내 역할의 중요한 부분은 이 가족들과 소통하는 것이었다. 절차를 설명하고, 기대를 관리하고, 신원 확인과 유해 반환의 감정적으로 격렬한 순간에 지원을 제공하는 것이었다.
+**Community and family liaison.** Many of the bereaved family members are elderly — they have waited over seventy years. A crucial part of my role was communicating with these families: explaining the process, managing expectations, and providing support during the emotionally charged moments of identification and the return of remains.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,10 +38,10 @@ category: work
     </div>
 </div>
 
-### 절차
+### The Process
 
-신원 확인은 네 단계에 걸쳐 전개된다. 역사 연구와 생존자 증언이 비밀 매장지의 위치를 먼저 파악한다. 고고학자와 법의학 전문가들이 유해를 신중하게 발굴한다. 수거된 유해는 실험실에서 법의학 및 DNA 분석을 거친다. 마지막으로, DNA 프로필은 유족이 제공한 데이터베이스와 대조된다. 매칭이 확인되면, 엄숙한 의식 속에서 유해가 반환되어, 70년 이상 만에 처음으로 가족이 제대로 된 장례식을 치를 수 있게 된다.
+The identification unfolds in four stages. Historical research and survivor testimonies first pinpoint the locations of clandestine graves. Archaeologists and forensic experts then carefully excavate the site. The recovered remains undergo forensic and DNA analysis in the laboratory. Finally, DNA profiles are matched against a database provided by the bereaved families — and when a match is confirmed, the remains are returned in a solemn ceremony, allowing the family to hold a proper funeral for the first time in over seven decades.
 
-### 관련 출판물
+### Related Publication
 
 Youngkwan Ban, ["Silencing the sound of cracking bones: Victim identification as memorial practice in Jeju 4.3"](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002992858), *The Korean Journal of History of Science*, 2023.

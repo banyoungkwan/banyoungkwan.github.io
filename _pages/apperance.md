@@ -1,17 +1,15 @@
 ---
 layout: page
 permalink: /appearance/
-title: 발표 및 출연
-description: 반영관의 학술 발표 및 미디어 출연 — 제주 4.3, 기억 연구, 인권 연구.
-keywords: 반영관 발표, IAMCR, 학술 회의, 미디어 출연, 제주 4.3, 기억 연구
-lang: ko
-alternate_url: /en/appearance/
+title: appearance
+description: Academic presentations and media appearances by Youngkwan Ban on Jeju 4.3, memory studies, and human rights research.
+keywords: Youngkwan Ban presentation, IAMCR, academic conference, media appearance, Jeju 4.3, memory studies
 nav: true
 nav_order: 5
 ---
 
 
-### 학술 발표
+### presentation
 
 
 - "Mediating a Silenced Past: The Case of the Jeju 4·3 Incident Investigation Report," IAMCR Singapre 2025, NTU, Singapore, July 2025.
@@ -29,7 +27,7 @@ nav_order: 5
 - “Echoing Ghosts,” 11st International Congress of Qualitative Inquiry, Urbana, Il, United States, May 2016.
 
 
-### 미디어 출연
+### media appearance
 
 
 - KCTV, "KCTV [Issue Talk Pang] The Excavation of 4.3 Remains and the Task of Blood Collection (KCTV [이슈토크 팡] 4.3 유해발굴과 채혈 과제)," <a href="https://www.youtube.com/watch?v=1LnfO77HOK0">Youtube</a> (May 16, 2025)

@@ -1,14 +1,12 @@
 ---
 layout: cv
-lang: ko
 permalink: /cv/
-alternate_url: /en/cv/
-title: 이력
+title: cv
 nav: true
 nav_order: 6
-cv_pdf: CV_yBAN_25.pdf
-description: 반영관 이력서 (박사, 일리노이대학교) — 기억 연구, 미디어 연구 학자이자 제주 4·3 평화재단 인권 연구자.
-keywords: 반영관 이력서, CV, 일리노이대학교 박사, 미디어와 커뮤니케이션, 제주 4·3 평화재단
+cv_pdf: CV_yBAN_25.pdf # you can also use external links here
+description: CV of Youngkwan Ban (PhD, University of Illinois) — memory studies scholar and human rights researcher at the Jeju 4.3 Peace Foundation.
+keywords: Youngkwan Ban CV, curriculum vitae, UIUC PhD, media and communication, Jeju 4.3 Peace Foundation
 toc:
   sidebar: left
 ---

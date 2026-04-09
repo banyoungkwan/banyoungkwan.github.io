@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 프로젝트
+title: projects
 permalink: /projects/
-description: 반영관의 프로젝트 — 유네스코 세계기록유산 등재, 희생자 신원 파악, 미국 문서보관소 연구, jeju43.info 디지털 생태계.
-keywords: 제주 4.3 프로젝트, 유네스코 등재, 희생자 신원 파악, NARA 문서보관소, 디지털 인문학, jeju43.info
-lang: ko
-alternate_url: /en/projects/
+description: Projects by Youngkwan Ban — UNESCO Memory of the World inscription, victim identification, U.S. archival research, and the jeju43.info digital ecosystem.
+keywords: Jeju 4.3 projects, UNESCO inscription, victim identification, NARA archives, digital humanities, jeju43.info
 nav: true
 nav_order: 2
 display_categories: [work]

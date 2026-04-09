@@ -1,33 +1,33 @@
 ---
 layout: page
-title: 아카이브 연구
-description: 제주 4·3 사건에 대한 미국의 관여를 입증하기 위해 NARA에서 기밀해제된 미국 문서 38,000건을 수집 및 분석.
+title: Archival Research
+description: Collecting and analyzing 38,000 declassified U.S. documents at NARA to establish evidence of American involvement in the Jeju 4.3 Incident.
 keywords: NARA, U.S. National Archives, declassified documents, RG554, Jeju 4.3, American involvement Korea, archival research, truth investigation
 img: assets/img/8.jpg
 importance: 4
 category: work
 ---
 
-## 국가 후속 진상조사를 위한 아카이브 연구
+## Archival Research for the National Follow-up Investigation
 
-2019년과 2020년 사이, 나는 제주 4·3 사건에 대한 공식 국가 후속 진상조사의 일환으로 미국 국립문서보관소(NARA)에서 광범위한 아카이브 연구를 수행했다. 이 작업은 현재까지 이 사건에 대한 미국이 보유한 일차 자료의 가장 종합적인 수집 중 하나를 만들어 냈다. 약 38,000건의 문서를 수집하고 분석했다.
+Between 2019 and 2020, I conducted extensive archival research at the U.S. National Archives and Records Administration (NARA) as part of the official national follow-up investigation into the Jeju 4.3 Incident. This work produced one of the most comprehensive collections of U.S.-held primary sources on the incident to date: approximately 38,000 documents collected and analyzed.
 
-### 미국 아카이브가 필요한 이유
+### Why the U.S. Archives
 
-1948년 제주 봉기가 시작되었을 때 미군정이 남한을 관할했다. 미군정 기록 — 군사 보고서, 정보 평가, 외교 전문 — 은 그 이후의 폭력에 대한 결정적인 외부 관점을 제공한다. 이 문서들은 미국 당국이 무엇을 알았고, 언제 알았는지, 그리고 그들의 감시 하에 남한 군대가 벌인 진압 캠페인에 어떻게 대응했는지를 드러낸다. 이 국제적 차원 없이는 역사적 기록이 불완전하고 미국의 책임 문제는 해결되지 않은 채로 남는다.
+The U.S. Military Government administered southern Korea when the Jeju uprising began in 1948. Its records — military reports, intelligence assessments, and diplomatic cables — hold a critical, external perspective on the violence that followed. These documents reveal what the U.S. authorities knew, when they knew it, and how they responded to the suppression campaign carried out by South Korean forces under their oversight. Without this international dimension, the historical record remains incomplete and the question of U.S. responsibility unanswered.
 
-### 내가 수행한 작업
+### What I Did
 
-NARA에서의 나의 연구는 레코드 그룹 554와 관련 수집물에 초점을 맞췄다. 이 작업은 여러 중요 영역에 걸쳐 기밀해제된 자료를 파악, 번역, 분석, 맥락화하는 것을 포함했다.
+My research at NARA focused on Record Group 554 and related collections. The work involved identifying, translating, analyzing, and contextualizing declassified materials across several critical areas:
 
-**국가 책임.** 나는 군부와 경찰 조직 내의 지휘 계통을 조사하여 폭력에 대한 공식적 책임의 정도를 확립했다. 명령이 어떻게 발령되고, 전달되고, 실행되었는지를 추적했다.
+**State responsibility.** I investigated the chain of command within the military and police forces to establish the degree of official accountability for the violence — tracing how orders were issued, communicated, and executed.
 
-**군부와 경찰의 잔혹성.** 나는 국가 군대가 민간인에 대해 저지른 폭력의 패턴과 특정 사례를 체계적으로 기록하여, 조사가 일화적 계정을 넘어설 수 있는 검증 가능한 증거 체계를 구축했다.
+**Military and police brutality.** I systematically documented patterns and specific instances of violence committed by state forces against civilians, building a body of verifiable evidence that moved the investigation beyond anecdotal accounts.
 
-**강제 이주.** 진압 캠페인의 직접적인 결과로 자신의 집과 공동체를 떠나야 했던 제주 주민들의 대규모 이주를 연구했다. 이것은 충분히 검토되지 않았던 비극의 한 차원이었다.
+**Enforced migration.** I researched the mass displacement of Jeju residents who were forced to flee their homes and communities as a direct result of the suppression campaign — a dimension of the tragedy that had been insufficiently examined.
 
-### 결과물
+### Output
 
-이 연구로부터의 핵심 발견은 다섯 권짜리 아카이브 수집물로 편집, 번역, 출판되었다: *Supplementary Investigation Materials for the Jeju 4.3 Incident — U.S. Archives, Volumes 1–5* (제주4·3사건 추가진상조사자료집 — 미국자료편 1~5). 이 권들은 주요 미국 보유 문서를 처음으로 한국어로 접근 가능하게 만들어, 국가 후속 조사의 미국의 관여에 대한 결론을 위한 증거적 기초를 제공한다.
+The core findings from this research were compiled, translated, and published as a five-volume archival collection: *Supplementary Investigation Materials for the Jeju 4.3 Incident — U.S. Archives, Volumes 1–5* (제주4·3사건 추가진상조사자료집 — 미국자료편 1~5). These volumes make the key U.S.-held documents accessible in Korean for the first time, providing the evidentiary foundation for the national follow-up investigation's conclusions on U.S. involvement.
 
-이 연구를 통해 수집된 아카이브 자료는 현재 [archive.jeju43.info](https://archive.jeju43.info)에서 접근 가능하다.
+The archival materials collected through this research are now accessible at [archive.jeju43.info](https://archive.jeju43.info).

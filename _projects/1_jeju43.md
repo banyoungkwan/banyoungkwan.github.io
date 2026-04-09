@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 제주 4·3
-description: 진실과 기억의 기초 — 제주 4·3 사건에 관한 반영관의 연구 활동 개요로, 유네스코 등재, 유해 신원 확인, 아카이브 연구를 포함합니다.
+title: Jeju 4.3
+description: A Foundation of Truth and Memory — overview of Youngkwan Ban's work on the Jeju 4.3 Incident, including UNESCO inscription, victim identification, and archival research.
 keywords: Jeju 4.3, Jeju massacre, Korean history, human rights, truth-seeking, state violence, memory studies
 img: assets/img/9.jpg
 importance: 1
@@ -14,20 +14,20 @@ category: work
     </div>
 </div>
 
-## 제주 4·3 사건: 진실과 기억의 기초
+## The Jeju 4.3 Incident: A Foundation of Truth and Memory
 
-제주 4·3 사건은 현대 한국사에서 가장 비극적이고 결정적인 사건 중 하나이다. 1948년 4월 3일에 시작되어 1950년대 중반까지 지속된 이 사건은 제주도 주민에 대한 국가 주도의 폭력이 극심했던 시기였다. 한반도 분단과 지방 자치에 대한 항거로 일어난 봉기에 맞서 남한 정부는 미군정의 감시 하에 잔혹한 진압 캠페인을 전개했다. 이로 인해 수만의 민간인이 학살되고, 섬의 대부분의 마을이 파괴되었으며, 깊은 집단 외상이 발생했다.
+The Jeju 4.3 Incident refers to one of the most tragic and defining events in modern Korean history. Beginning on April 3, 1948, and continuing well into the mid-1950s, it was a period of intense state-sponsored violence against the people of Jeju Island. In response to an uprising against the division of Korea and for local autonomy, the South Korean government, with the oversight of the U.S. Military Government, launched a brutal suppression campaign. This resulted in the massacre of tens of thousands of civilians, the destruction of the majority of the island's villages, and the creation of a deep, collective trauma.
 
-수십 년 동안 제주 4·3의 진실은 연이은 독재 정권에 의해 공식적으로 은폐되었다. 피해자와 그 가족들은 학살에 대해 증언할 수 없었으며, 공식적인 역사 서술은 왜곡되거나 완전히 소거되었다. 생존자와 시민단체가 주도한 끈질기고 용감한 진실규명 운동을 통해서만 이 침묵이 깨질 수 있었다. 이 운동은 2000년 제주 4·3 특별법 제정, 정부의 공식 조사, 대통령의 사과, 그리고 제주 4·3을 국가 추념일로 지정하는 결과를 가져왔다.
+For decades, the truth of Jeju 4.3 was officially silenced by successive authoritarian governments. Victims and their families were forbidden from speaking about the massacre, and the official narrative was distorted or erased entirely. It was only through a persistent, courageous truth-finding movement led by survivors and civic groups that this silence was finally broken. This movement led to the enactment of the Jeju 4.3 Special Act in 2000, an official government investigation, a presidential apology, and the designation of Jeju 4.3 as a national day of remembrance.
 
-이러한 억압의 역사와 이후의 진실규명 투쟁은 나의 모든 전문 활동의 기초가 되었다. 2019년 제주 4·3 평화재단에 입직한 이후, 나는 이 역사의 유산에 대응하는 여러 상호 연결된 프로젝트를 주도하고 관리해 왔다. 국제적 인정 확보에서부터 사라진 이들의 신원 복원까지 이에 걸쳐 있다.
+This history of suppression and the subsequent fight for truth is the foundation from which all my professional work stems. Since joining the Jeju 4.3 Peace Foundation in 2019, I have led and managed several interconnected projects that address the legacy of this history — from securing international recognition to restoring the identities of the lost.
 
-### 주요 프로젝트
+### My Projects
 
-**[유네스코 세계기록유산](/projects/unesco_memory_jeju43/)** — 제주 4·3 아카이브를 유네스코 세계기록유산 목록에 등재시키는 다년간의 노력을 주도하여 2025년 4월에 성공적으로 등재를 달성했다. 이는 한때 억압받던 역사에 대한 전 지구적이고 돌이킬 수 없는 인정을 확보한다.
+**[UNESCO Memory of the World](/projects/unesco_memory_jeju43/)** — I led the multi-year effort to inscribe the Jeju 4.3 Archives on the UNESCO Memory of the World Register, successfully achieving inscription in April 2025. This secures global, irreversible recognition for a history that was once suppressed.
 
-**[유해 신원 확인](/projects/excavation/)** — 프로젝트 관리자로서 비밀 매장지의 발굴과 피해자의 DNA 기반 신원 확인을 감독했다. 이 작업은 국가 폭력에 의해 지워진 사람들의 존엄성과 신원을 복원하는 "추도 실천"이라는 개념으로 규정될 수 있다.
+**[Victim Identification](/projects/excavation/)** — As project manager, I oversaw the excavation of clandestine graves and the DNA-based identification of victims — work I frame as a "memorial practice" that restores dignity and identity to those erased by state violence.
 
-**[아카이브 연구](/projects/archival_research/)** — 미국 국립문서보관소에서 광범위한 연구를 수행하여 약 38,000건의 기밀해제 문서를 수집 및 분석하여 국가 후속 진상조사의 증거적 기초를 마련했다.
+**[Archival Research](/projects/archival_research/)** — I conducted extensive research at the U.S. National Archives, collecting and analyzing approximately 38,000 declassified documents to establish the evidentiary basis for the national follow-up investigation.
 
-**[jeju43.info](/projects/jeju43info/)** — 뉴스, 아카이브 접근, 협력적 지식을 아우르는 개방형 디지털 생태계를 구축하여 제주 4·3의 기억이 디지털 시대에 접근 가능하고 생생하게 유지되도록 하고 있다.
+**[jeju43.info](/projects/jeju43info/)** — I am building an open digital ecosystem — spanning news, archival access, and collaborative knowledge — to ensure the memory of Jeju 4.3 remains accessible and alive in the digital age.
