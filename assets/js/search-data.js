@@ -54,6 +54,12 @@ ninja.data = [{
           section: "News",},{id: "news-begin-participatory-english-translation-project-of-jeju-4-3-investigation-report-제주4-3사건-진상조사보고서-영문-번역-프로젝트-jeju-4-3-incident-truth-investigation-report-english-translation-project-250417-github-project-page",
           title: 'Begin participatory English Translation project of “Jeju 4.3 Investigation Report” [제주4·3사건 진상조사보고서 영문...',
           description: "",
+          section: "News",},{id: "news-launched-news-jeju43-info-a-dedicated-news-platform-covering-ongoing-developments-related-to-the-jeju-4-3-incident-including-truth-seeking-efforts-policy-updates-and-memorial-activities",
+          title: 'Launched news.jeju43.info, a dedicated news platform covering ongoing developments related to the Jeju...',
+          description: "",
+          section: "News",},{id: "news-launched-archive-jeju43-info-an-open-digital-archive-providing-access-to-historical-documents-testimonies-and-records-related-to-the-jeju-4-3-incident",
+          title: 'Launched archive.jeju43.info, an open digital archive providing access to historical documents, testimonies, and...',
+          description: "",
           section: "News",},{id: "projects-jeju-4-3",
           title: 'Jeju 4.3',
           description: "A Foundation of Truth and Memory",
@@ -69,6 +75,11 @@ ninja.data = [{
           description: "Excavation and Identifying Jeju 4.3 Victims",
           section: "Projects",handler: () => {
               window.location.href = "/projects/excavation/";
+            },},{id: "projects-jeju43-info",
+          title: 'jeju43.info',
+          description: "A Digital Ecosystem for Jeju 4·3 Memory",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jeju43info/";
             },},{id: "projects-unesco-memory-of-the-world",
           title: 'UNESCO Memory of the World',
           description: "Registration of Jeju 4.3 Archives",
